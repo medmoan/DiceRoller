@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تاس غلتک</string>
+    <string name="dice_face">صورت تاس عبارت است از:</string>
+    <string name="dice_face_1">صورت تاس عبارت است از: 1</string>
+</resources>

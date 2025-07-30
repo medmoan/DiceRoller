@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/dice1</item>
+        <item>@drawable/dice2</item>
+        <item>@drawable/dice3</item>
+        <item>@drawable/dice4</item>
+        <item>@drawable/dice5</item>
+        <item>@drawable/dice6</item>
+    </array>
+
+</resources>

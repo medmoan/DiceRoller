@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="dice_face">Dice face is:</string>
+    <string name="dice_face_1">Dice face is: 1</string>
+</resources>
